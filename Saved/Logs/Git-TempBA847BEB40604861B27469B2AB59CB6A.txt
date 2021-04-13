@@ -1,3 +1,0 @@
-+ Created bathroom for player cabin
-+ Started visual elements of player cabin
-+ Started visual elements of hallway

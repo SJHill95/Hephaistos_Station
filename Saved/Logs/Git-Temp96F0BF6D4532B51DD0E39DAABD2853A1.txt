@@ -1,3 +1,0 @@
-+ Added ray casting
-+ Added HUD
-+ Chair blueprint that allows the player to sit

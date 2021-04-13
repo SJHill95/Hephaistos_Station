@@ -1,3 +1,0 @@
-+ Fixed issue door sounds not playing correctly
-+ Fixed pause menu to work with both key press and on screen button
-+ Added interactive button BP
