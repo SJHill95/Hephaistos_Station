@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 04/15/21 09:36:08
+=======
+﻿Log file open, 04/14/21 13:36:46
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 =======
 ﻿Log file open, 04/14/21 13:36:46
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
@@ -9,7 +13,11 @@ LogInit: Display: Running engine for game: Artemis_2034
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.546961
+=======
+LogStats: Stats thread started at 0.781704
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 =======
 LogStats: Stats thread started at 0.781704
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
@@ -18,7 +26,10 @@ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AISupport
+=======
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 =======
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin Paper2D
@@ -26,6 +37,7 @@ LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -112,6 +124,19 @@ LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+=======
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin WebMMedia
@@ -152,6 +177,9 @@ LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+<<<<<<< HEAD
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
+=======
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
@@ -165,17 +193,26 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin AudioCapture
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+=======
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
@@ -188,6 +225,9 @@ LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
+=======
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
@@ -196,12 +236,15 @@ LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SoundFields
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 =======
+=======
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin SignificanceManager
@@ -229,6 +272,9 @@ LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< HEAD
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
+=======
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
@@ -321,6 +367,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.04.15-08.36.11:168][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.04.15-08.36.11:168][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1835,6 +1882,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.15-08.38.08:475][907]LogExit: Exiting.
 [2021.04.15-08.38.08:488][907]Log file closed, 04/15/21 09:38:08
 =======
+=======
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
 [2021.04.14-12.36.51:743][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.04.14-12.36.51:743][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.04.14-12.36.51:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4 Projects/Artemis_2034/Saved/Config/Windows/Engine.ini]
@@ -5674,4 +5723,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.14-12.52.34:521][ 92]LogD3D12RHI: ~FD3D12DynamicRHI
 [2021.04.14-12.52.34:643][ 92]LogExit: Exiting.
 [2021.04.14-12.52.34:658][ 92]Log file closed, 04/14/21 13:52:34
+<<<<<<< HEAD
+>>>>>>> parent of 6820fac (Main Menu & Loading Screen)
+=======
 >>>>>>> parent of 6820fac (Main Menu & Loading Screen)
