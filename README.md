@@ -1,3 +1,3 @@
-# Hephaistos Station
+# Artemis 2034
 
-An interactive, immersive experience, set on Hephaistos, a space station located on the edge of our solar system.
+An interactive, immersive experience, set on the lunar surface, you play an astronaut stationed on a moon base constructed during the Artemis mission.
